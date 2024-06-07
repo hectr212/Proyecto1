@@ -1,0 +1,7 @@
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\obj\Debug\proyectoProgramado1.csproj.AssemblyReference.cache
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\obj\Debug\proyectoProgramado1.csproj.CoreCompileInputs.cache
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\bin\Debug\proyectoProgramado1.exe.config
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\bin\Debug\proyectoProgramado1.exe
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\bin\Debug\proyectoProgramado1.pdb
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\obj\Debug\proyectoProgramado1.exe
+C:\Users\byaku\OneDrive\Escritorio\proyectoProgramado1\proyectoProgramado1\obj\Debug\proyectoProgramado1.pdb
